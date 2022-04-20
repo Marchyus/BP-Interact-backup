@@ -5,7 +5,7 @@ Run regularly or prior upgrades/changes.
 
 # Usage
 ## Prerequisites
-Update BP Interact install directory (_line #6_), if it's not installed in default directory _(C:\Program Files (x86)\Blue Prism\)_
+Edit BP Interact install directory _(line #6)_, if it's not default setup _(C:\Program Files (x86)\Blue Prism\)_
 
 ## Usage
 1. Choose directory for backup(s)
