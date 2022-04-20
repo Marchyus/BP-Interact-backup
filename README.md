@@ -1,6 +1,7 @@
 # BP-Interact-backup
 Blue Prism Interact has 10+ components, each of those contains own configuration files. 
-Script backups all .json and .config files before upgrades or configuration changes.
+Script backups all .json and .config files. 
+Run regularly or prior upgrades/changes.
 
 # Usage
 ## Prerequisites
