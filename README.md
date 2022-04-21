@@ -13,5 +13,5 @@ Edit BP Interact install directory _(line #6)_, if it's not default setup _(C:\P
 3. Execute script
 
 
-## Why?
+## Why
 "Wonder, could I do it with .bat?"
