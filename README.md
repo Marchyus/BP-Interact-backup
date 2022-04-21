@@ -11,3 +11,7 @@ Edit BP Interact install directory _(line #6)_, if it's not default setup _(C:\P
 1. Choose directory for backup(s)
 2. Copy backup_interact_configs.bat there
 3. Execute script
+
+
+## Why?
+"Wonder, could I do it with .bat?"
