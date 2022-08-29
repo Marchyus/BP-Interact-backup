@@ -1,11 +1,10 @@
 # BP-Interact-backup
 Blue Prism Interact has 10+ components, each of those contains own configuration files. 
-Script backups all .json and .config files. 
-Run regularly or prior upgrades/changes.
+Script backups all .json and .config files. Run prior upgrades/changes.
 
 # Usage
 ## Prerequisites
-If interact is not in default directory _C:\Program Files (x86)\Blue Prism\,_ edit _line #6_ accordingly. 
+Edit _line #6_ if interact is not in default directory (_C:\Program Files (x86)\Blue Prism\\_). 
 
 ## Usage
 1. Choose directory for backup(s)
