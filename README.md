@@ -2,7 +2,7 @@
 Blue Prism Hub/Interact has 10+ components, each of those contains own config file(s). 
 Script backups all .json and .config files.
 
-Though mostly it was could I do it with .bat?
+Though mostly it was _"could I do it with .bat?"_
 
 # How to use
 Change _line #6_ if interact is not in default directory (_C:\Program Files (x86)\Blue Prism\\_). 
